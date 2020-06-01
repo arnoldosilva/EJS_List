@@ -27,5 +27,3 @@ function getDay(){
 
     return day
 }
-
-console.log(module.exports)
